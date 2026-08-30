@@ -2,3 +2,4 @@
 2 crater.png
 3 horizon.png
 2 lunar.png
+6 tp_logo.png

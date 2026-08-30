@@ -219,7 +219,7 @@ public class ImgHandler implements Runnable {
 		String ret = "";
 		try {
 			
-			Scanner scanner = new Scanner(new File(".data/server/ImgList.txt"));
+			Scanner scanner = new Scanner(new File("data/server/ImgList.txt"));
 			while (scanner.hasNext()) {
 				String imgString = scanner.nextLine();
 				ret += imgString + " # ";
