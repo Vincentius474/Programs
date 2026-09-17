@@ -1,0 +1,3 @@
+1 Hand.png
+2 Chest.png
+3 foot.png
